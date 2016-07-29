@@ -1,0 +1,26 @@
+{
+  "name": "simplenodejs",
+  "title": "simplenodejs",
+  "version": "0.0.1",
+  "description": "simplenode.com",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sathish102003/simplenode"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
